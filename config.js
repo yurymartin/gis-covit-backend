@@ -3,3 +3,4 @@ module.exports = {
   db: process.env.MONGODB || 'mongodb://localhost:27017/covit19',
   SECRET_TOKEN: 'appcovit19token'
 }
+
